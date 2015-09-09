@@ -1,0 +1,28 @@
+body {
+  background: #86D3F4 url("images/optimus-prime.jpg")  center top no-repeat;
+  background-size: cover;
+  text-align: center;
+  font-family: 'Roboto Mono', ;
+}
+.container {
+  background-color: rgba(167, 62, 62, .8);
+  border-radius: 25px;
+  margin-top: 300px;
+}
+
+h1 {
+  color: white;
+}
+
+.name {
+  font-size: 60px;
+}
+
+#result {
+  display: none;
+}
+
+p {
+  color: white;
+  font-size: 40px;
+}
